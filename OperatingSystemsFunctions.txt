@@ -1,0 +1,6 @@
+Operating System Functions
+
+
+Some Basic Functions of an Operating System.
+
+(1) Hardware component coordination: The Operating System is what enables the coordination of the system hardware components. There is a unique language for each piece of hardware your device talks to and the language is translated using a software called a device driver. There is a different driver for every hardware component for each Operating System. These communication translators are what allows the software and hardware to communicate successfully.
