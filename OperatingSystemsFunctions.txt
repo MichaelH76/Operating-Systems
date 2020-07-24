@@ -1,10 +1,9 @@
 Operating System Functions
 
-
 Some Basic Functions of an Operating System.
 
-(1) Hardware component coordination: The Operating System is what enables the coordination of the system hardware components. There is a unique language for each piece of hardware your device talks to and the language is translated using a software called a device driver. There is a different driver for every hardware component for each Operating System. These communication translators are what allows the software and hardware to communicate successfully.
+(1) Hardware component coordination: The Operating System is what enables the coordination of the system hardware components. There is a unique language for each piece of hardware your device talks to, and the language is translated using software called device drivers. There is a different driver for every hardware component for each Operating System. These communication translators are what allows the software and hardware to communicate successfully.
 
-(2) Hardware interface with the user: In order for your machine and you to be able to interact and Operating System provides and interface between the device and the user. The interface can be a GUI or graphical user interface where the users can select elements on-screen to interact with the Operating System. There is also the CLI or command line interface which allows the users to type a command/statement in the CLI to speak to the Operating System and interact with.
+(2) Hardware interface with the user: For your machine and you to be able to interact, an Operating System provides an interface between the device and the user. The interface can be a GUI or graphical user interface where the users can select elements on-screen to interact with the Operating System. There is also the CLI or command-line interface which allows the users to type a command/statement in the CLI to speak to the Operating System and interact with.
 
-(3) Monitoring functionality and health of Operating System: The performance of the device hardware is monitored to provide necessary feedback on how well or how poorly it is performing. This allows me to check on how busy my CPU be at any given time, or how fast my hard drive(s) are retrieving data. System activity is also monitore for malware etc.
+(3) Monitoring functionality and health of Operating System: The performance of the device hardware is monitored to provide necessary feedback on how well or how poorly it is performing. This allows me to check on how busy my CPU is at any given time, or how fast my hard drive(s) are retrieving data. System activity is also monitored for malware, etc.
